@@ -3,6 +3,8 @@ import java.util.Scanner;
 
 public class Salon {
 
+    // Salon Sample code
+
     static int hairCuts, permanents, colorings; // Types of salon services available
     static int customers; // total number of customers
     static double dailyRev, dailyTax; // daily revenue(Money earned in does NOT include tax), the daily tax
