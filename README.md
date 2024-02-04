@@ -7,6 +7,7 @@
 #### - Logical Operators
 #### - If and Else Statements
 #### - While, Do While, For Loops
+#### - Arrays
 #### - JFrame 
 #### And more to come!
 
